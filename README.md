@@ -21,3 +21,19 @@ Here are some ideas to get you started:
 
 
 [![](https://netease-recent-profile.vercel.app/?id=312018102&size=40&number=10&column=2&theme=light)](https://netease-recent-profile.vercel.app/?id=312018102&size=40&number=10&column=2&theme=light)
+
+
+<html>
+    <table style="margin-left: auto; margin-right: auto;">
+        <tr>
+            <td>
+                <!--左侧内容-->
+                左侧
+            </td>
+            <td>
+                <!--右侧内容-->
+                右侧
+            </td>
+        </tr>
+    </table>
+</html>
